@@ -48,6 +48,8 @@ Todas las vulnerabilidades que tiene el wordpress:latest las tiene el wordpress:
 |
 \
 |-> Este es el wordpress:4.6
+
+
 ![Esta de aqui es el wordpress:latest](kata_latest.png)
 |
 \
