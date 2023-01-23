@@ -30,6 +30,8 @@ Esta opcion se puede habilitar en el archivo de configuración del Docker Daemon
 # Segunda Parte
 
 Aqui no me ha salido ningun problema de dependencia
+
+
 ![papa](trivy_dockerfile.png)
 
 
